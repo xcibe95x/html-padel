@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    /* Adjust text header size and style */
+    font-weight: bold;
+    font-size: 35px;
+}
+
+hr {
+    /* Add some thickness to headers */
+    border-style: solid;
+}
+
+ul {
+    /* Make full dots in lists */
+    list-style-type: disc;
+}
